@@ -1,4 +1,4 @@
-# likelihood-of-working-classifcation
+# likelihood-of-working-classification
 
 The goal of this project is to build a model to predict likelihood of working in a STEM (Science, Technology, Engineering, and Math) career based on basic demographics: Age, sex, race, state of origin.
 Before building the classifier, we visualized and presented the data to gain a better understanding of it.
